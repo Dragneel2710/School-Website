@@ -1,0 +1,26 @@
+.font{
+  font-family : 'Times New Roman', Times, serif;
+  border: 1px solid black;
+  margin: 25px 50px 75px 100px;
+  background-color: lightblue;
+}
+
+.wrap{
+  flex-direction: row;
+  border: 1px solid black;
+  margin: 25px 50px 75px 100px;
+  background-color: lightblue;
+}
+
+.down{
+  border-style : groove;
+  justify-content : space-between;
+  flex-direction: column-reverse;
+  border: 1px solid black;
+  margin: 25px 50px 75px 100px;
+  background-color: rgb(230, 226, 173);
+}
+
+.bodies{
+  background-color: #808080;
+}
